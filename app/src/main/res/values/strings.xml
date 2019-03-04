@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">catchat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_inbox">inbox</string>
+    <string name="txt_drafts">drafts</string>
+    <string name="txt_send_items">send_items</string>
+    <string name="txt_trash">trash</string>
+</resources>
