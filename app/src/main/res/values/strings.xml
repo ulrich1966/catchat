@@ -1,10 +1,13 @@
 <resources>
+    <string name="app_name">Cat-Chat</string>
+
     <string name="txt_mail">spot@catchat.com</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="txt_inbox">inbox</string>
     <string name="txt_drafts">drafts</string>
     <string name="txt_send_items">send_items</string>
     <string name="txt_trash">trash</string>
+    <string name="txt_help">help</string>
+
     <string name="nav_inbox">Nachrichten</string>
     <string name="nav_drafts">Entwüfre</string>
     <string name="nav_send">Nachrich senden</string>
@@ -14,5 +17,4 @@
     <string name="nav_feedback">Feedback</string>
     <string name="nav_open_drawer">Drawer</string>
     <string name="nav_close_drawer">Drawer schließen</string>
-    <string name="app_name">Cat-Chat</string>
 </resources>
